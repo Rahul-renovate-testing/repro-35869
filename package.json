@@ -1,0 +1,12 @@
+{
+   "dependencies": {
+        "express": "^4.21.1"
+    },
+    "engines": {
+        "npm": "10.9.2"
+    },
+    "volta": {
+        "npm": "11.3.0"
+    },
+    "packageManager": "npm@9.9.4"
+}
